@@ -1,2 +1,4 @@
 # skills
-C/C++, Data structure and algorithm, Question practice 
+C/C++
+Data structure and algorithm
+Question practice 
